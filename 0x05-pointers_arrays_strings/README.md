@@ -1,1 +1,1 @@
-0x05 pointers, arrays, strings
+0x05-pointers,arrays,strings
