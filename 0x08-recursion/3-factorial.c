@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int factorial -a function that returns the factorial of a given number
+ * int factorial - returns the factorial of a given number: 5 - (5 - 1)
  * @n: input
  * Return: Always 0 (Success)
  */
