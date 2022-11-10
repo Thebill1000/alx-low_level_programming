@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * array_range - get len, malloc * len
