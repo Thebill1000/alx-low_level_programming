@@ -1,3 +1,8 @@
+/**
+ * hash_djb2 - Hash a string value
+ * @str: given string
+ * Return: A hashed value
+ */
 unsigned long int hash_djb2(const unsigned char *str)
 {
 	unsigned long int hash;
